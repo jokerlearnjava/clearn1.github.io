@@ -1,0 +1,9 @@
+com\atguigu\docker_boot\config\SwaggerConfig.class
+com\atguigu\docker_boot\mapper\UserMapper.class
+com\atguigu\docker_boot\config\RedisConfig.class
+com\atguigu\docker_boot\service\UserService.class
+com\atguigu\docker_boot\entities\UserDTO.class
+com\atguigu\docker_boot\entities\User.class
+com\atguigu\docker_boot\controller\UserController.class
+com\atguigu\docker_boot\DockerBootApplication.class
+com\atguigu\docker_boot\controller\DockerController.class
